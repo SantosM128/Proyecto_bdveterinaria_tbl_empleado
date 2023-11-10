@@ -5,3 +5,4 @@ Base de datos: bdveterinaria Tabla: tbl_empleados
 ![](https://github.com/SantosM128/Proyecto_bdveterinaria_tbl_empleado/blob/78ca800f487741337775ee0516daa8d62a392d77/3.png)
 ![](https://github.com/SantosM128/Proyecto_bdveterinaria_tbl_empleado/blob/c10d2f5d1257b15e361edd3a7c1dc97b250959f3/4.png)
 ![](https://github.com/SantosM128/Proyecto_bdveterinaria_tbl_empleado/blob/f0bf5f87dcc0cfb033541dcf6f711c358be0cb61/5.png)
+![](https://github.com/SantosM128/Proyecto_bdveterinaria_tbl_empleado/blob/09e1614a5dd5e69e8c329dacade5afe0c0a5c1b8/6.png)
